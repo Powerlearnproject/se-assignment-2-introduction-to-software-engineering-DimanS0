@@ -1,0 +1,164 @@
+Assigment Answers
+
+Software Engineer:
+Is a systematic, disciplined, and quantifiable approach to the design, development, operation, and maintenance of software.
+The goal of software engineering is to produce high-quality software that is cost-effective and maintainable.
+
+Software Development Life Cycle (SDLC)
+The Software Development Life Cycle (SDLC) is a process used by software engineering teams to design, develop, and test high-quality software. 
+It provides a structured approach to software development and consists of several distinct phases.
+
+Phases of Software Development Life Cycle(SDLC)
+
+1.Requirements Analysis:
+Gather and document detailed user and system requirements.
+Create requirement specifications.
+
+2.Design:
+Develop the software architecture and design specifications.
+Create detailed designs for each software component.
+
+3.Implementation (Coding):
+Write the actual code based on the design specifications.
+Implement the algorithms and functionality required by the design.
+
+
+4.Testing:
+Conduct various tests (unit tests, integration tests, system tests) to ensure the software meets requirements and is free of bugs.
+Validate that the software performs as expected in different scenarios.
+Deployment:
+
+5.Deploying.
+Install and configure the software in the production environment.
+Perform user training and support initial use.
+Maintenance:
+
+6.Mantanance
+Provide ongoing support and updates to the software.
+Fix any issues or bugs that arise after deployment.
+Implement new features or improvements as needed.
+
+
+DIFFERENCES BETWEEN AGILE VS WATERFALL MODELS
+
+AGILE:
+Iterative and incremental development with flexibility for changes.
+High customer involvement and frequent feedback.
+Adaptive planning with regular small releases.
+
+WATERFALL:
+Linear and sequential development with fixed stages.
+Low customer involvement after initial requirements.
+Predictable planning with comprehensive documentation and a single final release.
+
+DIFFERENT LEVELS OF SOFTWARE TESTING
+UNIT TESTING: Tests individual components or functions of the software to ensure they work correctly in isolation.
+INTERGRATION TESTING: Verifies that different modules or services used by the application work well together.
+SYSTEM TESTING: Evaluates the complete and integrated software system to ensure it meets the specified requirements.
+ACCEPTANCE TESTING: Confirms the software meets the business requirements and is ready for delivery, often performed by the end-users.
+
+IMPORTANCE OF TESTING.
+Testing is crucial in software development to identify and fix defects early, ensure software reliability and performance,
+validate that the software meets user requirements, and maintain quality and security, reducing the risk of failures and costly fixes after deployment.
+
+
+
+VERSION CONTROL SYSTEM(VCS)
+
+Version control systems (VCS) are tools that help manage changes to source code over time,
+enabling multiple developers to collaborate, track revisions, and revert to previous states if necessary. They are crucial for maintaining code integrity, facilitating teamwork, and ensuring a historical record of changes. Popular examples include Git, 
+known for its distributed architecture and branching capabilities; Subversion (SVN), which offers centralized version control;
+and Mercurial, valued for its simplicity and performance.
+
+
+ROLES OF A SOFTWARE PROJECT MANAGER
+A software project manager oversees planning, execution, and delivery of software projects,\
+ensuring they meet requirements, deadlines, and budgets. Key responsibilities include coordinating teams,
+managing risks, and handling stakeholder communication, with challenges such as scope creep, resource constraints, and maintaining team cohesion.
+
+
+SOFTWARE MANTAINANCE AND DIFFERENT TYPES OF SOFTWARE MANTAINANCE
+Software maintenance involves modifying and updating software after its initial deployment to correct faults, 
+improve performance, or adapt to a changed environment,
+encompassing corrective, adaptive, perfective, and preventive maintenance activities,
+which are essential to ensure software remains functional, efficient, and relevant over time.
+
+
+CHALLENGES FACED BY SOFTWARE ENGINEER
+Software engineers might face ethical issues such as data privacy breaches, 
+intellectual property theft, and creating biased algorithms. To adhere to ethical standards,
+they should follow professional codes of conduct like the ACM Code of Ethics, ensure transparency in their work,
+and rigorously test for and mitigate biases and vulnerabilities.
+For example, the Facebook-Cambridge Analytica scandal highlights the importance of safeguarding user data and maintaining privacy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
